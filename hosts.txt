@@ -1,5 +1,5 @@
-capitalone.com
-chevy.com
-ford.com
-hyaundai.com
-macdonalds.com
+0.0.0.0 capitalone.com
+0.0.0.0 chevy.com
+0.0.0.0 ford.com
+0.0.0.0 hyaundai.com
+0.0.0.0 macdonalds.com
