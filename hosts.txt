@@ -6,3 +6,4 @@
 127.0.0.1 temu.com
 127.0.0.1 *.doubleclick.net
 127.0.0.1 *.hotjar.com
+127.0.0.1 *yandex.net
