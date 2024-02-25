@@ -1,5 +1,9 @@
-0.0.0.0 capitalone.com
-0.0.0.0 chevy.com
-0.0.0.0 ford.com
-0.0.0.0 hyaundai.com
-0.0.0.0 macdonalds.com
+127.0.0.1 capitalone.com
+127.0.0.1 chevy.com
+127.0.0.1 ford.com
+127.0.0.1 hyaundai.com
+127.0.0.1 macdonalds.com
+127.0.0.1 temu.com
+127.0.0.1 *.doubleclick.net
+127.0.0.1 *.hotjar.com
+127.0.0.1 ads.youtube.com
