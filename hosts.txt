@@ -9,3 +9,8 @@
 127.0.0.1 *.hotjar.io
 127.0.0.1 *yandex.net
 127.0.0.1 freshmarketer.com
+127.0.0.1 *.betmgm.com
+127.0.0.1 *.draftkings.com
+127.0.0.1 draftkings.com
+127.0.0.1 *.fanduel.com
+127.0.0.1 fanduel.com
